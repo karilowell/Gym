@@ -47,6 +47,9 @@ body {
     background-size: cover
 }
 
+     size: 30px;
+}
+
 
 div {
     
@@ -55,4 +58,10 @@ div {
     margin: 100px auto;
     text-align: center;
     
+}
+
+i {
+    
+    color:hotpink
+        size: 100 em;
 }
